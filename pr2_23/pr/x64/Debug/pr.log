@@ -1,0 +1,3 @@
+﻿  pr.cpp
+C:\Users\Admin\source\repos\pr1_26\pr2_23\pr\pr.cpp(36,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  pr.vcxproj -> C:\Users\Admin\source\repos\pr1_26\pr2_23\x64\Debug\pr.exe

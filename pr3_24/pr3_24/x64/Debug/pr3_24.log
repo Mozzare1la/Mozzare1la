@@ -1,0 +1,4 @@
+﻿  pr3_24.cpp
+C:\Users\Admin\source\repos\pr1_26\pr3_24\pr3_24\pr3_24.cpp(7,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\pr1_26\pr3_24\pr3_24\pr3_24.cpp(33,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  pr3_24.vcxproj -> C:\Users\Admin\source\repos\pr1_26\pr3_24\x64\Debug\pr3_24.exe
