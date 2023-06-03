@@ -1,0 +1,3 @@
+﻿  pr1_26.cpp
+C:\Users\Admin\source\repos\pr1_26\pr1_26\pr1_26.cpp(29,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  pr1_26.vcxproj -> C:\Users\Admin\source\repos\pr1_26\x64\Debug\pr1_26.exe
